@@ -4,6 +4,6 @@ using UnityEngine;
 public class ArtifactInfoSO : ScriptableObject
 {
     public string artifactName;
-    [TextArea] public string artifactText;
+    [TextArea] public string artifactDescription;
     public AudioClip artifactAudio;
 }
