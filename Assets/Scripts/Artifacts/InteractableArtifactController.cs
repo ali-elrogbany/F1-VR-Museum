@@ -13,14 +13,24 @@ public class InteractableArtifactController : MonoBehaviour
     [SerializeField] private TMP_Text descriptionText;
     [SerializeField] private ScrollRect scrollRect;
 
+    [Header("Audio References")]
+    private AudioSource audioSource;
+
     private void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+
         informationCanvas.SetActive(false);
 
         titleText.text = artifactData.artifactName;
         descriptionText.text = artifactData.artifactDescription;
 
         StartCoroutine(UpdateTextHeight());
+    }
+
+    public void PlayAudio()
+    {
+        audioSource.PlayOneShot(artifactData.artifactAudio);
     }
 
     private void OnTriggerEnter(Collider other)

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3395d8b09d6424992b8cba564a369a, type: 3}
+  m_Name: Painting08
+  m_EditorClassIdentifier: 
+  artifactName: 'Decided in Controversy: Hamilton vs Verstappen'
+  artifactDescription: One of the most controversial moments in F1 history. After
+    a season-long rivalry filled with drama, Lewis Hamilton and Max Verstappen entered
+    the Abu Dhabi Grand Prix tied on points. In a race that seemed destined for Hamilton,
+    a late-race safety car and a controversial decision by race control led to a
+    one-lap shootout. Verstappen, on fresher tires, seized the opportunity, overtaking
+    Hamilton to claim his first World Championship. A moment that will be debated
+    for generations.
+  artifactAudio: {fileID: 8300000, guid: 4e84bfb0bfb5a491dbb1e04e83b596d6, type: 3}

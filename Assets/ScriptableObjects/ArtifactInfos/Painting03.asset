@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3395d8b09d6424992b8cba564a369a, type: 3}
+  m_Name: Painting03
+  m_EditorClassIdentifier: 
+  artifactName: 'Suzuka Glory: Schumacher''s First Title with Ferrari'
+  artifactDescription: "After 21 long years, Ferrari was back on top. Michael Schumacher\u2019s
+    victory in Suzuka secured his first World Championship with the Scuderia, marking
+    the beginning of an era of dominance. A tense battle with Mika H\xE4kkinen unfolded
+    throughout the race, but Schumacher\u2019s flawless performance under pressure
+    delivered the title Ferrari had been chasing since 1979. This moment was the
+    birth of the Red Empire that would rule Formula 1 for years to come."
+  artifactAudio: {fileID: 8300000, guid: 13aeaff6a6eef42eeb819241bcc69e51, type: 3}

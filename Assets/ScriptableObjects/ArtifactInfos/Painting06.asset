@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3395d8b09d6424992b8cba564a369a, type: 3}
+  m_Name: Painting06
+  m_EditorClassIdentifier: 
+  artifactName: "Raikkonen\u2019s Miracle Comeback"
+  artifactDescription: "Starting from 17th on the grid, Kimi R\xE4ikk\xF6nen delivered
+    one of the greatest comeback victories in F1 history at Suzuka. In a race filled
+    with overtakes, the Iceman executed a daring last-lap move on Giancarlo Fisichella
+    to snatch victory for McLaren. This performance showcased his raw speed and relentless
+    pursuit of victory, solidifying his reputation as one of the fastest drivers
+    of his generation."
+  artifactAudio: {fileID: 8300000, guid: 76a2bea1801084b159f43622b8899daf, type: 3}

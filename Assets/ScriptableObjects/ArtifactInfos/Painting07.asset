@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3395d8b09d6424992b8cba564a369a, type: 3}
+  m_Name: Painting07
+  m_EditorClassIdentifier: 
+  artifactName: 'Defying the Legend: Alonso vs Schumacher'
+  artifactDescription: "Fernando Alonso and Michael Schumacher\u2019s epic duel at
+    Imola was a battle of generations. For 12 relentless laps, Schumacher hunted
+    down the young Spaniard, applying immense pressure in a desperate attempt to
+    snatch victory. But Alonso\u2019s flawless defensive driving held off the seven-time
+    World Champion, marking a symbolic passing of the torch and signaling a new era
+    in F1."
+  artifactAudio: {fileID: 8300000, guid: 7a7270558f07f4b3bbd61cf3261510eb, type: 3}

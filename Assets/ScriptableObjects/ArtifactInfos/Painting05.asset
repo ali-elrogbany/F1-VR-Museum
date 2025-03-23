@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3395d8b09d6424992b8cba564a369a, type: 3}
+  m_Name: Painting05
+  m_EditorClassIdentifier: 
+  artifactName: "The Playboy Champion: Hunt\u2019s Title Triumph"
+  artifactDescription: "James Hunt\u2019s dramatic World Championship win in torrential
+    conditions at Fuji is the stuff of legend. In a rain-soaked, politically charged
+    race, Hunt fought his way through the field to secure the points he needed to
+    edge out Niki Lauda by a single point in one of F1\u2019s most intense title
+    fights. This victory cemented Hunt\u2019s legacy as one of the sport\u2019s most
+    charismatic and fearless drivers."
+  artifactAudio: {fileID: 8300000, guid: f1529d32b288e46b497dce595a1b9c31, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3395d8b09d6424992b8cba564a369a, type: 3}
+  m_Name: Painting02
+  m_EditorClassIdentifier: 
+  artifactName: 'Rain Master: Hamilton''s Greatest Wet-Weather Drive'
+  artifactDescription: A young Lewis Hamilton delivered one of the most dominant
+    wet-weather performances ever seen in F1. In treacherous conditions, he lapped
+    all but two cars on his way to victory at Silverstone, finishing an astonishing
+    68 seconds ahead of second place. This masterclass in wet-weather driving solidified
+    his reputation as one of the greatest in changing conditions and set him on course
+    for his first World Championship.
+  artifactAudio: {fileID: 8300000, guid: 5de4a9507bb984148b182693a81fb5ae, type: 3}

@@ -20,4 +20,4 @@ MonoBehaviour:
     finish line, crossing it in agonizing pain. His screams of victory over the radio
     and the subsequent exhaustion in parc ferm\xE9 symbolize the relentless spirit
     of a champion.\n"
-  artifactAudio: {fileID: 0}
+  artifactAudio: {fileID: 8300000, guid: 03c39bf9abb3340559c90b5a6e411e8e, type: 3}
