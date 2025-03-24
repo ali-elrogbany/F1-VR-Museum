@@ -233,6 +233,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4217448624538215604, guid: 103e7768fbe9947c8b00ddd9c449e5db,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5500587647189192724, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
       propertyPath: artifactData
@@ -438,7 +443,7 @@ PrefabInstance:
         type: 3}
       propertyPath: artifactData
       value: 
-      objectReference: {fileID: 11400000, guid: c9b6431443eaa47029409817c1be37ab,
+      objectReference: {fileID: 11400000, guid: a40d5467f492845c09af9839f8c86033,
         type: 2}
     - target: {fileID: 6043114376864079766, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
@@ -1376,11 +1381,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4217448624538215604, guid: 103e7768fbe9947c8b00ddd9c449e5db,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5500587647189192724, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
       propertyPath: artifactData
       value: 
-      objectReference: {fileID: 11400000, guid: 74cff5fde0ec04795bd37d61b36f6753,
+      objectReference: {fileID: 11400000, guid: beca84618ba6940dd84b14452fb6116e,
         type: 2}
     - target: {fileID: 6043114376864079766, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
@@ -1537,11 +1547,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4217448624538215604, guid: 103e7768fbe9947c8b00ddd9c449e5db,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5500587647189192724, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
       propertyPath: artifactData
       value: 
-      objectReference: {fileID: 11400000, guid: a40d5467f492845c09af9839f8c86033,
+      objectReference: {fileID: 11400000, guid: 74cff5fde0ec04795bd37d61b36f6753,
         type: 2}
     - target: {fileID: 6043114376864079766, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
@@ -1911,7 +1926,7 @@ PrefabInstance:
         type: 3}
       propertyPath: artifactData
       value: 
-      objectReference: {fileID: 11400000, guid: beca84618ba6940dd84b14452fb6116e,
+      objectReference: {fileID: 11400000, guid: c9b6431443eaa47029409817c1be37ab,
         type: 2}
     - target: {fileID: 6043114376864079766, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
@@ -2251,6 +2266,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4217448624538215604, guid: 103e7768fbe9947c8b00ddd9c449e5db,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5500587647189192724, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
@@ -2695,6 +2715,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4217448624538215604, guid: 103e7768fbe9947c8b00ddd9c449e5db,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5500587647189192724, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
@@ -3324,12 +3349,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5500587647189192724, guid: 103e7768fbe9947c8b00ddd9c449e5db,
-        type: 3}
-      propertyPath: artifactData
-      value: 
-      objectReference: {fileID: 11400000, guid: ee833ba2cbe9e453fafdda93adf41538,
-        type: 2}
     - target: {fileID: 6043114376864079766, guid: 103e7768fbe9947c8b00ddd9c449e5db,
         type: 3}
       propertyPath: m_AnchorMax.y
