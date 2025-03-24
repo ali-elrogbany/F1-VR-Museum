@@ -14,11 +14,13 @@ public class InteractableArtifactController : MonoBehaviour
     [SerializeField] private ScrollRect scrollRect;
 
     [Header("Audio References")]
-    private AudioSource audioSource;
+    [SerializeField] private AudioClip buttonClickSFX;
+    [SerializeField] private AudioSource sfxAudioSource;
+    private AudioSource speechAudioSource;
 
     private void Start()
     {
-        audioSource = GetComponent<AudioSource>();
+        speechAudioSource = GetComponent<AudioSource>();
 
         informationCanvas.SetActive(false);
 
@@ -28,9 +30,16 @@ public class InteractableArtifactController : MonoBehaviour
         StartCoroutine(UpdateTextHeight());
     }
 
-    public void PlayAudio()
+    public void OnButtonClick()
     {
-        audioSource.PlayOneShot(artifactData.artifactAudio);
+        StartCoroutine(IButtonClick());
+    }
+
+    private void PlayAudio()
+    {
+        speechAudioSource.Stop();
+        speechAudioSource.clip = artifactData.artifactAudio;
+        speechAudioSource.Play();
     }
 
     private void OnTriggerEnter(Collider other)
@@ -57,5 +66,14 @@ public class InteractableArtifactController : MonoBehaviour
         LayoutRebuilder.ForceRebuildLayoutImmediate(descriptionText.rectTransform);
 
         scrollRect.verticalNormalizedPosition = 1f;
+    }
+
+    private IEnumerator IButtonClick()
+    {
+        sfxAudioSource.PlayOneShot(buttonClickSFX);
+
+        yield return new WaitForSeconds(1f);
+
+        PlayAudio();
     }
 }
