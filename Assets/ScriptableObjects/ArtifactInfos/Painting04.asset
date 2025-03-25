@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Painting04
   m_EditorClassIdentifier: 
   artifactName: 'The Lap of Legends: Senna at Monaco'
+  artifactInfo: Monaco Grand Prix, 1988 (Qualifying)
   artifactDescription: "Considered by many as the greatest lap in F1 history, Ayrton
     Senna\u2019s qualifying performance in Monaco 1988 was a moment of pure transcendence.
     He outqualified his teammate Alain Prost by a staggering 1.4 seconds\u2014an

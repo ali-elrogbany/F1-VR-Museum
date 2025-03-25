@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Painting02
   m_EditorClassIdentifier: 
   artifactName: 'Rain Master: Hamilton''s Greatest Wet-Weather Drive'
+  artifactInfo: British Grand Prix, 2008
   artifactDescription: A young Lewis Hamilton delivered one of the most dominant
     wet-weather performances ever seen in F1. In treacherous conditions, he lapped
     all but two cars on his way to victory at Silverstone, finishing an astonishing

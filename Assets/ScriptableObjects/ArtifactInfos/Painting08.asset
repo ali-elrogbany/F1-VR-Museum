@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Painting08
   m_EditorClassIdentifier: 
   artifactName: 'Decided in Controversy: Hamilton vs Verstappen'
+  artifactInfo: Abu Dhabi Grand Prix, 2021
   artifactDescription: One of the most controversial moments in F1 history. After
     a season-long rivalry filled with drama, Lewis Hamilton and Max Verstappen entered
     the Abu Dhabi Grand Prix tied on points. In a race that seemed destined for Hamilton,

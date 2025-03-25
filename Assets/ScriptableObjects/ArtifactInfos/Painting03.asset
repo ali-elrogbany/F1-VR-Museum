@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Painting03
   m_EditorClassIdentifier: 
   artifactName: 'Suzuka Glory: Schumacher''s First Title with Ferrari'
+  artifactInfo: Japanese Grand Prix, 2000
   artifactDescription: "After 21 long years, Ferrari was back on top. Michael Schumacher\u2019s
     victory in Suzuka secured his first World Championship with the Scuderia, marking
     the beginning of an era of dominance. A tense battle with Mika H\xE4kkinen unfolded

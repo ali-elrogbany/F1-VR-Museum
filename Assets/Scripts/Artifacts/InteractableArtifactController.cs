@@ -10,6 +10,7 @@ public class InteractableArtifactController : MonoBehaviour
     [Header("Canvas References")]
     [SerializeField] private GameObject informationCanvas;
     [SerializeField] private TMP_Text titleText;
+    [SerializeField] private TMP_Text infoText;
     [SerializeField] private TMP_Text descriptionText;
     [SerializeField] private ScrollRect scrollRect;
 
@@ -25,6 +26,7 @@ public class InteractableArtifactController : MonoBehaviour
         informationCanvas.SetActive(false);
 
         titleText.text = artifactData.artifactName;
+        infoText.text = artifactData.artifactInfo;
         descriptionText.text = artifactData.artifactDescription;
 
         StartCoroutine(UpdateTextHeight());

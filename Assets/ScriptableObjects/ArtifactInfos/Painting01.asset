@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Painting01
   m_EditorClassIdentifier: 
   artifactName: 'Ayrton''s Triumph: The One-Handed Victory'
+  artifactInfo: Brazilian Grand Prix, 1991
   artifactDescription: "Ayrton Senna\u2019s emotional victory at his home Grand Prix
     remains one of the most legendary moments in Formula 1 history. With just a few
     laps to go, Senna\u2019s McLaren suffered a gearbox failure, leaving him stuck

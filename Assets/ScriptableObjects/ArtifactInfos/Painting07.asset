@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Painting07
   m_EditorClassIdentifier: 
   artifactName: 'Defying the Legend: Alonso vs Schumacher'
+  artifactInfo: San Marino Grand Prix, 2005
   artifactDescription: "Fernando Alonso and Michael Schumacher\u2019s epic duel at
     Imola was a battle of generations. For 12 relentless laps, Schumacher hunted
     down the young Spaniard, applying immense pressure in a desperate attempt to
