@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8725184455110748038}
   - component: {fileID: 7052879464474423609}
   - component: {fileID: 1896807162956847627}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -191,10 +191,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4985625736196315756, guid: 35808ec8d238f4943815e73ab7d4275d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 35808ec8d238f4943815e73ab7d4275d,
         type: 3}
       propertyPath: m_Name
       value: Art Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 35808ec8d238f4943815e73ab7d4275d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4362689901359065521, guid: 35808ec8d238f4943815e73ab7d4275d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
