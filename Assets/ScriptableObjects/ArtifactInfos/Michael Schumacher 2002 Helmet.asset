@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3395d8b09d6424992b8cba564a369a, type: 3}
+  m_Name: Michael Schumacher 2002 Helmet
+  m_EditorClassIdentifier: 
+  artifactName: "Michael Schumacher\u2019s 2002 Helmet"
+  artifactInfo: 2002 F1 World Championship
+  artifactDescription: "Schumacher\u2019s 2002 season was nothing short of perfection.
+    Driving the legendary Ferrari F2002, he secured his fifth World Championship
+    with a record-breaking display of consistency\u2014finishing every race on the
+    podium and clinching the title with six races to spare. This helmet, adorned
+    with Ferrari\u2019s iconic red and the prancing horse, was a symbol of his reign
+    at the top of the sport. It stood witness to one of the most dominant seasons
+    ever recorded in Formula 1."
+  artifactAudio: {fileID: 8300000, guid: 423f3c6db053d4de6ac71c0fecf1e03e, type: 3}

@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd3395d8b09d6424992b8cba564a369a, type: 3}
   m_Name: RedBull RB19
   m_EditorClassIdentifier: 
-  artifactName: RedBull RB19 2023
-  artifactText: "The Red Bull RB19 was the dominant Formula 1 car of the 2023 season,
-    designed by Adrian Newey and built by Red Bull Racing. It was driven by Max Verstappen
-    and Sergio P\xE9rez, securing an unprecedented level of performance throughout
-    the season. The car was an evolution of the highly successful RB18, refining
-    aerodynamics and improving efficiency to further cement Red Bull\u2019s dominance.\n\nMax
-    Verstappen drove the RB19 to 19 Grand Prix victories, setting a new record for
-    the most wins in a single season. Red Bull also achieved an incredible 21 wins
-    out of 22 races, securing both the Drivers' Championship and the Constructors'
-    Championship in record-breaking fashion."
-  artifactAudio: {fileID: 0}
+  artifactName: Red Bull Racing RB19
+  artifactInfo: 2023 F1 World Championship
+  artifactDescription: "The Red Bull RB19 was a masterpiece of engineering, achieving
+    an astonishing 21 wins out of 22 races in the 2023 season, driven by Max Verstappen
+    and Sergio P\xE9rez. With cutting-edge aerodynamics, supreme balance, and unmatched
+    efficiency, the RB19 cemented Red Bull\u2019s dominance, allowing Verstappen
+    to cruise to his third consecutive World Championship. The car\u2019s design,
+    crafted under Adrian Newey\u2019s genius, made it one of the greatest machines
+    ever to grace an F1 circuit. This is not just a car; it is a symbol of an era-defining
+    supremacy."
+  artifactAudio: {fileID: 8300000, guid: ec026ed7839464168806edd49ecef9e8, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3395d8b09d6424992b8cba564a369a, type: 3}
+  m_Name: Gilles Villneuve Helmet
+  m_EditorClassIdentifier: 
+  artifactName: "Gilles Villeneuve\u2019s Helmet"
+  artifactInfo: Late 1970s / Early 1980s F1 World Championship
+  artifactDescription: "Gilles Villeneuve was a driver who raced with his heart,
+    pushing his car beyond its limits with sheer determination and skill. His iconic
+    red, white, and blue helmet saw battles that are still spoken of in awe today\u2014whether
+    it was his legendary wheel-to-wheel duel with Ren\xE9 Arnoux in Dijon (1979)
+    or his heroic drive at Zandvoort on three wheels. This helmet is not just protective
+    gear; it is the very essence of passion, risk-taking, and unbreakable spirit
+    that made Villeneuve a legend."
+  artifactAudio: {fileID: 8300000, guid: c44935739de1d45689e33896098e13b0, type: 3}
